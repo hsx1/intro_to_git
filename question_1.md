@@ -2,7 +2,7 @@
 
 Which command is used to create a git repository?
 
-Answer:
+Answer: git init
 
 ```
 
